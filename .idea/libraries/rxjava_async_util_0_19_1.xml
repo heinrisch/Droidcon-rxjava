@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rxjava-async-util-0.19.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-async-util/0.19.1/9be825579308c3423844df987d5b82f48e7c3e8d/rxjava-async-util-0.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-async-util/0.19.1/2001eb83f518e9a237d6dfafc5e3a532050adced/rxjava-async-util-0.19.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
